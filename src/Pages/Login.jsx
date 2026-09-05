@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Logo from "../assets/Login.png"
+import Logo from "../assets/Login.png";
 import { Link } from "react-router-dom";
 
 const Login = () => {
