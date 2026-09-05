@@ -444,7 +444,7 @@ const Signup = () => {
 
             {/* Already Member */}
             <Link
-              to="/login"
+              to="/"
               type="button"
               onClick={handleLogin}
               className="
