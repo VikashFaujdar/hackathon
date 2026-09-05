@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import signup from "../assets/Signup.webp";
+import signup from "../assets/Signup.png";
 import { Link } from "react-router-dom";  
 
 const Signup = () => {
